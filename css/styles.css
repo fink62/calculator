@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: #7f90be;
+}
+
+h1 {
+  text-align: left;
+  padding: 3% 15%;
+}
+/** Containers **/
+.container-fluid {
+  padding: 5% 15%;
+
+}
